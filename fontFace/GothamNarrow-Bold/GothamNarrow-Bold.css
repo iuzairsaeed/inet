@@ -1,0 +1,8 @@
+.font-GothamNarrowBold{font-family: 'GothamNarrow-Bold';}
+@font-face {
+  font-family: 'GothamNarrow-Bold';
+  src: url('GothamNarrow-Bold.eot?#iefix') format('embedded-opentype'),  url('GothamNarrow-Bold.otf')  format('opentype'),
+	     url('GothamNarrow-Bold.woff') format('woff'), url('GothamNarrow-Bold.ttf')  format('truetype'), url('GothamNarrow-Bold.svg#GothamNarrow-Bold') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}

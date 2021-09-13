@@ -1,0 +1,8 @@
+.font-GothamCondensedMedium{font-family: 'GothamCondensed-Medium';}
+@font-face {
+  font-family: 'GothamCondensed-Medium';
+  src: url('GothamCondensed-Medium.eot?#iefix') format('embedded-opentype'),  url('GothamCondensed-Medium.otf')  format('opentype'),
+	     url('GothamCondensed-Medium.woff') format('woff'), url('GothamCondensed-Medium.ttf')  format('truetype'), url('GothamCondensed-Medium.svg#GothamCondensed-Medium') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}

@@ -1,0 +1,8 @@
+
+@font-face {
+  font-family: 'FreightTextProMedium-Italic';
+  src: url('FreightTextProMedium-Italic.eot?#iefix') format('embedded-opentype'),  url('FreightTextProMedium-Italic.otf')  format('opentype'),
+	     url('FreightTextProMedium-Italic.woff') format('woff'), url('FreightTextProMedium-Italic.ttf')  format('truetype'), url('FreightTextProMedium-Italic.svg#FreightTextProMedium-Italic') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}

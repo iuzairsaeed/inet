@@ -1,0 +1,110 @@
+/*!
+ * jQuery ClassyEdit
+ * http://www.class.pm/projects/jquery/classyedit
+ *
+ * Copyright 2012 - 2013, Class.PM www.class.pm
+ * Written by Marius Stanciu - Sergiu <marius@picozu.net>
+ * Licensed under the GPL Version 3 license.
+ * Version 1.1.0
+ *
+ */
+
+
+.classyedit {
+    border: 1px #ced4da solid;
+    font-family: 'FreightTextProLight-Regular';
+    color: #000121;
+    font-size: 16px;
+    /*width:500px;*/
+    /*-moz-border-radius:3px;*/
+    /*-webkit-border-radius:3px;*/
+    /*border-radius: 3px;*/
+}
+
+.classyedit .toolbar {
+    position:relative;
+    z-index:10;
+    height:36px;
+    background-image:url('../../images/textarea/toolbar.png');
+    background-repeat:repeat-x;
+    -moz-border-radius:3px;
+    -webkit-border-radius:3px;
+    border-radius: 3px;
+    overflow:hidden;
+    display:none;
+}
+.classyedit .toolbar .button {
+    width:36px;
+    height:34px;
+    float:left;
+    background-image:url('../../images/textarea/break.png');
+    background-repeat:no-repeat;
+    background-position:right 4px;
+    cursor:pointer;
+}
+.classyedit .toolbar .button:hover,
+.classyedit .toolbar .button.on {
+    background-color:#E5E8EF;
+    /*border:1px #C9D0DA solid;*/
+    /*border-top:none;*/
+    /*margin-left:-1px;*/
+    /*width:35px;*/
+}
+.classyedit .toolbar .button.first:hover {
+    border-left:none;
+    margin-left:0px;
+    -moz-border-top-left-radius:3px;
+    -webkit-border-top-left-radius:3px;
+    border-top-left-radius: 3px;
+}
+.classyedit .toolbar .button div,
+.classyedit .toolbar .button a {
+    background-repeat:no-repeat;
+    background-position:center center;
+    display:block;
+    width:100%;
+    height:34px;
+}
+.classyedit .toolbar .button [command='underline'] {
+    background-image:url('../../images/textarea/underline.png');
+}
+.classyedit .toolbar .button [command='italic'] {
+    background-image:url('../../images/textarea/italic.png');
+}
+.classyedit .toolbar .button [command='bold'] {
+    background-image:url('../../images/textarea/bold.png');
+}
+.classyedit .toolbar .button [command='insertUnorderedList'] {
+    background-image:url('../../images/textarea/bullet.png');
+}
+.classyedit .toolbar .button [command='html'] {
+    background-image:url('../../images/textarea/html.png');
+}
+.classyedit .toolbar .button [command='href'] {
+    background-image:url('../../images/textarea/href.png');
+}
+.classyedit .editor {
+    position:relative;
+    z-index:1;
+    min-height:150px;
+    padding:10px;
+    outline: none;
+}
+.classyedit .editor:first-letter {
+    text-transform: uppercase;
+}
+
+
+.classyedit .html_editor {
+    width:95%;
+    resize: none;
+    padding:10px;
+    border:0px;
+    display:none;
+    min-height:140px;
+}
+.form-control:first-letter{
+    text-transform: uppercase !important;
+}
+
+.toolbar{display: block !important;}

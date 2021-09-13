@@ -1,0 +1,26 @@
+@import 'AtlasGrotesk-Bold/styles.css';
+@import 'AtlasGrotesk-Medium/styles.css';
+@import 'AtlasGrotesk-Regular/styles.css';
+@import 'AtlasGroteskWeb-Bold/styles.css';
+@import 'AtlasGroteskWeb-Medium/styles.css';
+@import 'AtlasGroteskWeb-Regular/styles.css';
+@import 'FreightTextProLight-Regular/styles.css';
+@import 'FreightTextProSemibold-Regular/styles.css';
+@import 'AtlasGroteskWeb-Light/styles.css';
+@import 'AtlasGroteskWeb-Black/styles.css';
+@import 'FreightTextProMedium-Italic/styles.css';
+@import 'FreightTextProBook-Regular/styles.css';
+
+
+.font-familyAtlasGrotesk-Bold{font-family: 'AtlasGrotesk-Bold';}
+.font-familyAtlasGrotesk-Medium{font-family: 'AtlasGrotesk-Medium';}
+.font-familyAtlasGrotesk-Regular{font-family: 'AtlasGrotesk-Regular';}
+.font-familyAtlasGroteskWeb-Bold{font-family: 'AtlasGroteskWeb-Bold';}
+.font-familyAtlasGroteskWeb-Medium{font-family: 'AtlasGroteskWeb-Medium';}
+.font-familyAtlasGroteskWeb-Regular{font-family: 'AtlasGroteskWeb-Regular';}
+.font-familyAtlasGroteskWeb-Light{font-family: 'AtlasGroteskWeb-Light';}
+.font-familyAtlasGroteskWeb-Black{font-family: 'AtlasGroteskWeb-Black';}
+.font-familyFreightTextProLight-Regular{font-family: 'FreightTextProLight-Regular';}
+.font-familyFreightTextProMedium-Italic{font-family: 'FreightTextProMedium-Italic';}
+.font-familyFreightTextProSemibold-Regular{font-family: 'FreightTextProSemibold-Regular';}
+.font-familyFreightTextProBook-Regular{font-family: 'FreightTextProBook-Regular';}

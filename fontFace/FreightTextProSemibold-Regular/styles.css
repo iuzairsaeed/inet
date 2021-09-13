@@ -1,0 +1,8 @@
+
+@font-face {
+  font-family: 'FreightTextProSemibold-Regular';
+  src: url('FreightTextProSemibold-Regular.eot?#iefix') format('embedded-opentype'),  url('FreightTextProSemibold-Regular.otf')  format('opentype'),
+	     url('FreightTextProSemibold-Regular.woff') format('woff'), url('FreightTextProSemibold-Regular.ttf')  format('truetype'), url('FreightTextProSemibold-Regular.svg#FreightTextProSemibold-Regular') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}

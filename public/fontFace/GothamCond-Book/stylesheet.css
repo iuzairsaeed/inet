@@ -1,0 +1,9 @@
+.font-GothamCondensedBook{font-family: 'Gotham Condensed Book';}
+@font-face {
+    font-family: 'Gotham Condensed Book';
+    src: url('GothamCondensed-Book.woff2') format('woff2'),
+        url('GothamCondensed-Book.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+

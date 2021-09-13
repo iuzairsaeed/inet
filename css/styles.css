@@ -1,0 +1,1233 @@
+/* #dashboardDataTable1 a { color: #3B3A45;}
+#dashboardDataTable2 a { color: #3B3A45;}
+#dashboardDataTable3 a { color: #3B3A45;} */
+.sub_banner{background-image: url(../images/subBanner.png); background-size: cover; background-position: center;}
+
+.bg-header{background: url("../images/bg/header.png") no-repeat;background-size: cover;}
+.bg-footer{background: url("../images/bg/footer.png") no-repeat;background-size: cover;}
+.bg-leftPanel{background: url("../images/bg/leftPanel.png") no-repeat;background-size: 100% 100%;}
+.bg-botPanel{background: url("../images/bg/botPanel.png") no-repeat;background-size: 100% 100%;}
+
+.banner {
+    background-image: url(../images/imgpsh_fullsize_anim.png);
+    height: 500px;
+    background-position: center center;
+    background-size: cover;
+}
+
+.welcome-text {
+    color: #fff;
+    margin: 88px 0px 94px 1px;
+}
+.greybox
+{
+    background: #f4f4f0;
+}
+.paratext {
+    color: #606c80;
+    font-size: 15px;
+    padding: 18px;
+}
+
+.rowbox {
+    margin: 70px 0px 75px 0px;
+}
+
+.browsby {
+    color: #3c3b46;
+}
+.browsbyp {
+    font-size: 14px;
+    text-align: center;
+    color: #606c80;
+    font-family: 'AtlasGrotesk-Regular';
+    margin: 15px;
+}
+
+.catgoery-box {
+    background: #f4f4f0;
+    padding-top: 45px;
+    padding-bottom: 45px;
+    margin: 22px 0px;
+}
+
+.catgoery-text {
+    padding: 11px 0px 0px 0px;
+    color: #3c3b46;
+    font-family: 'AtlasGroteskWeb-Bold';
+}
+
+.catgoery-img {
+    margin: 0px 0px 0px 20px;
+}
+
+.howserve {
+    color: #606c80;
+}
+.howserve-text {
+    color: #3c3b46;
+    font-family: 'AtlasGrotesk-Regular';
+    font-size: 12px;
+    margin: 15px 0px 0px 0px;
+}
+.create-btn {
+    background: #7ca9a1;
+    border: none;
+    color: #fff;
+    border-bottom: 4px solid #e9184c;
+    font-size: 12px;
+    padding: 13px 22px;
+    font-family: 'AtlasGrotesk-Bold';
+    text-transform: uppercase;
+    margin-top: 28px;
+}
+.btn-img {
+    margin: 0px 0px 0px 17px;
+}
+
+.learn-btn {
+    background: #dcc1c5;
+    border: none;
+    color: #fff;
+    border-bottom: 4px solid #e9184c;
+    font-size: 12px;
+    padding: 13px 22px;
+    font-family: 'AtlasGrotesk-Bold';
+    text-transform: uppercase;
+    margin-top: 28px;
+    color: #852946;
+    margin-left: 12px;
+
+}
+
+.readmore-img {
+   margin: 50px 0px 0px 0px;
+}
+
+.readmore-name {
+    font-family: 'AtlasGrotesk-Bold';
+    margin: 10px 0px 0px 0px;
+    font-size: 14px;
+ }
+
+ .readmore-profession {
+    background: #dcc1c5;
+    color: #852946;
+    width: 65px;
+    margin: auto;
+    padding: 2px;
+    font-family: 'FreightTextProMedium-Italic';
+    font-size: 14px;
+    margin-top: 3px;
+ }
+
+ .profilebox-text {
+    background-image: url(../images/admin/Asset113.png);
+    background-position: 4px 68px;
+    background-repeat: no-repeat;
+    margin: 0px 0px 0px 0px;
+    background-size: 67px;
+    padding: 95px 7px 0px 12px;
+    color: #3d1124;
+    font-size: 13px;
+ }
+ .ready-text {
+    font-family: 'FreightTextProMedium-Italic';
+    margin-top: 15px;
+ }
+
+ .what-our-community {
+     background-image: url(../images/admin/Asset112.png);
+      padding: 50px 0px;
+ }
+ .what-our-community h2 {
+      color: #fff;
+      font-family: 'FreightTextProBook-Regular';
+}
+
+.what-our-community p {
+    color: #fff;
+    opacity: 0.5;
+    font-size: 14px;
+}
+
+.swiper-container {
+    width: 100%;
+    height: 100%;
+  }
+  .swiper-slide {
+    text-align: center;
+    font-size: 18px;
+    background: #fff;
+
+    /* Center slide text vertically */
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: -webkit-flex;
+    display: flex;
+    -webkit-box-pack: center;
+    -ms-flex-pack: center;
+    -webkit-justify-content: center;
+    justify-content: center;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    -webkit-align-items: center;
+    align-items: center;
+  }
+
+
+
+  /*WORKZINGA*/
+.editor:empty:before {
+    content: attr(data-placeholder);
+    color: #6c757d;
+}
+
+.overflow-hidden{overflow: hidden;}
+.thumbnailImg_WH1{
+    width: 9.3em;
+    height: 9.3em;
+}
+.thumbnailImg{
+    overflow: hidden;
+    border-radius: 100%;
+    margin-right: 1em;
+    border: 1px solid #dee2e6;
+    background-color: #606C80;
+}
+
+
+.thumbnailImg_WH2 {
+    width: 12em;
+    height: 7em;
+}
+
+.thumbnailImg_WHCard {
+    width: 100%;
+    height: 12em;
+}
+
+.thumbnailImg_WH3 {
+    width: 7em;
+    height: 7em;
+}
+.thumbnailImg_WH4 {
+    width: 5em;
+    height: 5em;
+}
+.thumbnailImg_WH5 {
+    width: 3em;
+    height: 3em;
+}
+
+.toolbar {
+    width: 100%;
+}
+
+.bootstrap-select>.dropdown-toggle.bs-placeholder, .bootstrap-select>.dropdown-toggle.bs-placeholder:active, .bootstrap-select>.dropdown-toggle.bs-placeholder:focus, .bootstrap-select>.dropdown-toggle.bs-placeholder:hover {
+    color: #606C80 !important;
+}
+.marginDArrow2-1 {
+    margin: -1.6em 0em 0em 16.2em;
+    color: #606C80;
+}
+
+/*LOADER*/
+.bookMain {
+    position: fixed;
+    top: 0;
+    background-color: rgba(0, 0, 0, 0.8);
+    width: 100%;
+    height: 100%;
+    bottom: 0;
+    z-index: 9999;
+}
+
+.bookMain .bookInner {
+    width: 2em;
+    height: 0em;
+    position: absolute;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    margin: auto;
+}
+
+.bookMain .book {
+    --color: #fff;
+    --duration: 6.8s;
+    width: 32px;
+    height: 12px;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    margin: 32px 0 0 0;
+}
+
+.bookMain .book .inner {
+    width: 32px;
+    height: 12px;
+    position: relative;
+    transform-origin: 2px 2px;
+    transform: rotateZ(-90deg);
+    -webkit-animation: book var(--duration) ease infinite;
+    animation: book var(--duration) ease infinite;
+}
+
+.bookMain .book .inner .left,
+.bookMain .book .inner .right {
+    width: 60px;
+    height: 4px;
+    top: 0;
+    border-radius: 2px;
+    background: var(--color);
+    position: absolute;
+}
+
+.bookMain .book .inner .left:before,
+.bookMain .book .inner .right:before {
+    content: "";
+    width: 48px;
+    height: 4px;
+    border-radius: 2px;
+    background: inherit;
+    position: absolute;
+    top: -10px;
+    left: 6px;
+}
+
+.bookMain .book .inner .left {
+    right: 28px;
+    transform-origin: 58px 2px;
+    transform: rotateZ(90deg);
+    -webkit-animation: left var(--duration) ease infinite;
+    animation: left var(--duration) ease infinite;
+}
+
+.bookMain .book .inner .right {
+    left: 28px;
+    transform-origin: 2px 2px;
+    transform: rotateZ(-90deg);
+    -webkit-animation: right var(--duration) ease infinite;
+    animation: right var(--duration) ease infinite;
+}
+
+.bookMain .book .inner .middle {
+    width: 32px;
+    height: 12px;
+    border: 4px solid var(--color);
+    border-top: 0;
+    border-radius: 0 0 9px 9px;
+    transform: translateY(2px);
+}
+
+.bookMain .book ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    position: absolute;
+    left: 50%;
+    top: 0;
+}
+
+.bookMain .book ul li {
+    height: 4px;
+    border-radius: 2px;
+    transform-origin: 100% 2px;
+    width: 48px;
+    right: 0;
+    top: -10px;
+    position: absolute;
+    background: var(--color);
+    transform: rotateZ(0deg) translateX(-18px);
+    -webkit-animation-duration: var(--duration);
+    animation-duration: var(--duration);
+    -webkit-animation-timing-function: ease;
+    animation-timing-function: ease;
+    -webkit-animation-iteration-count: infinite;
+    animation-iteration-count: infinite;
+}
+
+.bookMain .book ul li:nth-child(0) {
+    -webkit-animation-name: page-0;
+    animation-name: page-0;
+}
+
+.bookMain .book ul li:nth-child(1) {
+    -webkit-animation-name: page-1;
+    animation-name: page-1;
+}
+
+.bookMain .book ul li:nth-child(2) {
+    -webkit-animation-name: page-2;
+    animation-name: page-2;
+}
+
+.bookMain .book ul li:nth-child(3) {
+    -webkit-animation-name: page-3;
+    animation-name: page-3;
+}
+
+.bookMain .book ul li:nth-child(4) {
+    -webkit-animation-name: page-4;
+    animation-name: page-4;
+}
+
+.bookMain .book ul li:nth-child(5) {
+    -webkit-animation-name: page-5;
+    animation-name: page-5;
+}
+
+.bookMain .book ul li:nth-child(6) {
+    -webkit-animation-name: page-6;
+    animation-name: page-6;
+}
+
+.bookMain .book ul li:nth-child(7) {
+    -webkit-animation-name: page-7;
+    animation-name: page-7;
+}
+
+.bookMain .book ul li:nth-child(8) {
+    -webkit-animation-name: page-8;
+    animation-name: page-8;
+}
+
+.bookMain .book ul li:nth-child(9) {
+    -webkit-animation-name: page-9;
+    animation-name: page-9;
+}
+
+.bookMain .book ul li:nth-child(10) {
+    -webkit-animation-name: page-10;
+    animation-name: page-10;
+}
+
+.bookMain .book ul li:nth-child(11) {
+    -webkit-animation-name: page-11;
+    animation-name: page-11;
+}
+
+.bookMain .book ul li:nth-child(12) {
+    -webkit-animation-name: page-12;
+    animation-name: page-12;
+}
+
+.bookMain .book ul li:nth-child(13) {
+    -webkit-animation-name: page-13;
+    animation-name: page-13;
+}
+
+.bookMain .book ul li:nth-child(14) {
+    -webkit-animation-name: page-14;
+    animation-name: page-14;
+}
+
+.bookMain .book ul li:nth-child(15) {
+    -webkit-animation-name: page-15;
+    animation-name: page-15;
+}
+
+.bookMain .book ul li:nth-child(16) {
+    -webkit-animation-name: page-16;
+    animation-name: page-16;
+}
+
+.bookMain .book ul li:nth-child(17) {
+    -webkit-animation-name: page-17;
+    animation-name: page-17;
+}
+
+.bookMain .book ul li:nth-child(18) {
+    -webkit-animation-name: page-18;
+    animation-name: page-18;
+}
+
+@-webkit-keyframes page-0 {
+    4% {
+        transform: rotateZ(0deg) translateX(-18px);
+    }
+
+    13%, 54% {
+        transform: rotateZ(180deg) translateX(-18px);
+    }
+
+    63% {
+        transform: rotateZ(0deg) translateX(-18px);
+    }
+}
+
+@keyframes page-0 {
+    4% {
+        transform: rotateZ(0deg) translateX(-18px);
+    }
+
+    13%, 54% {
+        transform: rotateZ(180deg) translateX(-18px);
+    }
+
+    63% {
+        transform: rotateZ(0deg) translateX(-18px);
+    }
+}
+
+@-webkit-keyframes page-1 {
+    5.86% {
+        transform: rotateZ(0deg) translateX(-18px);
+    }
+
+    14.74%, 55.86% {
+        transform: rotateZ(180deg) translateX(-18px);
+    }
+
+    64.74% {
+        transform: rotateZ(0deg) translateX(-18px);
+    }
+}
+
+@keyframes page-1 {
+    5.86% {
+        transform: rotateZ(0deg) translateX(-18px);
+    }
+
+    14.74%, 55.86% {
+        transform: rotateZ(180deg) translateX(-18px);
+    }
+
+    64.74% {
+        transform: rotateZ(0deg) translateX(-18px);
+    }
+}
+
+@-webkit-keyframes page-2 {
+    7.72% {
+        transform: rotateZ(0deg) translateX(-18px);
+    }
+
+    16.48%, 57.72% {
+        transform: rotateZ(180deg) translateX(-18px);
+    }
+
+    66.48% {
+        transform: rotateZ(0deg) translateX(-18px);
+    }
+}
+
+@keyframes page-2 {
+    7.72% {
+        transform: rotateZ(0deg) translateX(-18px);
+    }
+
+    16.48%, 57.72% {
+        transform: rotateZ(180deg) translateX(-18px);
+    }
+
+    66.48% {
+        transform: rotateZ(0deg) translateX(-18px);
+    }
+}
+
+@-webkit-keyframes page-3 {
+    9.58% {
+        transform: rotateZ(0deg) translateX(-18px);
+    }
+
+    18.22%, 59.58% {
+        transform: rotateZ(180deg) translateX(-18px);
+    }
+
+    68.22% {
+        transform: rotateZ(0deg) translateX(-18px);
+    }
+}
+
+@keyframes page-3 {
+    9.58% {
+        transform: rotateZ(0deg) translateX(-18px);
+    }
+
+    18.22%, 59.58% {
+        transform: rotateZ(180deg) translateX(-18px);
+    }
+
+    68.22% {
+        transform: rotateZ(0deg) translateX(-18px);
+    }
+}
+
+@-webkit-keyframes page-4 {
+    11.44% {
+        transform: rotateZ(0deg) translateX(-18px);
+    }
+
+    19.96%, 61.44% {
+        transform: rotateZ(180deg) translateX(-18px);
+    }
+
+    69.96% {
+        transform: rotateZ(0deg) translateX(-18px);
+    }
+}
+
+@keyframes page-4 {
+    11.44% {
+        transform: rotateZ(0deg) translateX(-18px);
+    }
+
+    19.96%, 61.44% {
+        transform: rotateZ(180deg) translateX(-18px);
+    }
+
+    69.96% {
+        transform: rotateZ(0deg) translateX(-18px);
+    }
+}
+
+@-webkit-keyframes page-5 {
+    13.3% {
+        transform: rotateZ(0deg) translateX(-18px);
+    }
+
+    21.7%, 63.3% {
+        transform: rotateZ(180deg) translateX(-18px);
+    }
+
+    71.7% {
+        transform: rotateZ(0deg) translateX(-18px);
+    }
+}
+
+@keyframes page-5 {
+    13.3% {
+        transform: rotateZ(0deg) translateX(-18px);
+    }
+
+    21.7%, 63.3% {
+        transform: rotateZ(180deg) translateX(-18px);
+    }
+
+    71.7% {
+        transform: rotateZ(0deg) translateX(-18px);
+    }
+}
+
+@-webkit-keyframes page-6 {
+    15.16% {
+        transform: rotateZ(0deg) translateX(-18px);
+    }
+
+    23.44%, 65.16% {
+        transform: rotateZ(180deg) translateX(-18px);
+    }
+
+    73.44% {
+        transform: rotateZ(0deg) translateX(-18px);
+    }
+}
+
+@keyframes page-6 {
+    15.16% {
+        transform: rotateZ(0deg) translateX(-18px);
+    }
+
+    23.44%, 65.16% {
+        transform: rotateZ(180deg) translateX(-18px);
+    }
+
+    73.44% {
+        transform: rotateZ(0deg) translateX(-18px);
+    }
+}
+
+@-webkit-keyframes page-7 {
+    17.02% {
+        transform: rotateZ(0deg) translateX(-18px);
+    }
+
+    25.18%, 67.02% {
+        transform: rotateZ(180deg) translateX(-18px);
+    }
+
+    75.18% {
+        transform: rotateZ(0deg) translateX(-18px);
+    }
+}
+
+@keyframes page-7 {
+    17.02% {
+        transform: rotateZ(0deg) translateX(-18px);
+    }
+
+    25.18%, 67.02% {
+        transform: rotateZ(180deg) translateX(-18px);
+    }
+
+    75.18% {
+        transform: rotateZ(0deg) translateX(-18px);
+    }
+}
+
+@-webkit-keyframes page-8 {
+    18.88% {
+        transform: rotateZ(0deg) translateX(-18px);
+    }
+
+    26.92%, 68.88% {
+        transform: rotateZ(180deg) translateX(-18px);
+    }
+
+    76.92% {
+        transform: rotateZ(0deg) translateX(-18px);
+    }
+}
+
+@keyframes page-8 {
+    18.88% {
+        transform: rotateZ(0deg) translateX(-18px);
+    }
+
+    26.92%, 68.88% {
+        transform: rotateZ(180deg) translateX(-18px);
+    }
+
+    76.92% {
+        transform: rotateZ(0deg) translateX(-18px);
+    }
+}
+
+@-webkit-keyframes page-9 {
+    20.74% {
+        transform: rotateZ(0deg) translateX(-18px);
+    }
+
+    28.66%, 70.74% {
+        transform: rotateZ(180deg) translateX(-18px);
+    }
+
+    78.66% {
+        transform: rotateZ(0deg) translateX(-18px);
+    }
+}
+
+@keyframes page-9 {
+    20.74% {
+        transform: rotateZ(0deg) translateX(-18px);
+    }
+
+    28.66%, 70.74% {
+        transform: rotateZ(180deg) translateX(-18px);
+    }
+
+    78.66% {
+        transform: rotateZ(0deg) translateX(-18px);
+    }
+}
+
+@-webkit-keyframes page-10 {
+    22.6% {
+        transform: rotateZ(0deg) translateX(-18px);
+    }
+
+    30.4%, 72.6% {
+        transform: rotateZ(180deg) translateX(-18px);
+    }
+
+    80.4% {
+        transform: rotateZ(0deg) translateX(-18px);
+    }
+}
+
+@keyframes page-10 {
+    22.6% {
+        transform: rotateZ(0deg) translateX(-18px);
+    }
+
+    30.4%, 72.6% {
+        transform: rotateZ(180deg) translateX(-18px);
+    }
+
+    80.4% {
+        transform: rotateZ(0deg) translateX(-18px);
+    }
+}
+
+@-webkit-keyframes page-11 {
+    24.46% {
+        transform: rotateZ(0deg) translateX(-18px);
+    }
+
+    32.14%, 74.46% {
+        transform: rotateZ(180deg) translateX(-18px);
+    }
+
+    82.14% {
+        transform: rotateZ(0deg) translateX(-18px);
+    }
+}
+
+@keyframes page-11 {
+    24.46% {
+        transform: rotateZ(0deg) translateX(-18px);
+    }
+
+    32.14%, 74.46% {
+        transform: rotateZ(180deg) translateX(-18px);
+    }
+
+    82.14% {
+        transform: rotateZ(0deg) translateX(-18px);
+    }
+}
+
+@-webkit-keyframes page-12 {
+    26.32% {
+        transform: rotateZ(0deg) translateX(-18px);
+    }
+
+    33.88%, 76.32% {
+        transform: rotateZ(180deg) translateX(-18px);
+    }
+
+    83.88% {
+        transform: rotateZ(0deg) translateX(-18px);
+    }
+}
+
+@keyframes page-12 {
+    26.32% {
+        transform: rotateZ(0deg) translateX(-18px);
+    }
+
+    33.88%, 76.32% {
+        transform: rotateZ(180deg) translateX(-18px);
+    }
+
+    83.88% {
+        transform: rotateZ(0deg) translateX(-18px);
+    }
+}
+
+@-webkit-keyframes page-13 {
+    28.18% {
+        transform: rotateZ(0deg) translateX(-18px);
+    }
+
+    35.62%, 78.18% {
+        transform: rotateZ(180deg) translateX(-18px);
+    }
+
+    85.62% {
+        transform: rotateZ(0deg) translateX(-18px);
+    }
+}
+
+@keyframes page-13 {
+    28.18% {
+        transform: rotateZ(0deg) translateX(-18px);
+    }
+
+    35.62%, 78.18% {
+        transform: rotateZ(180deg) translateX(-18px);
+    }
+
+    85.62% {
+        transform: rotateZ(0deg) translateX(-18px);
+    }
+}
+
+@-webkit-keyframes page-14 {
+    30.04% {
+        transform: rotateZ(0deg) translateX(-18px);
+    }
+
+    37.36%, 80.04% {
+        transform: rotateZ(180deg) translateX(-18px);
+    }
+
+    87.36% {
+        transform: rotateZ(0deg) translateX(-18px);
+    }
+}
+
+@keyframes page-14 {
+    30.04% {
+        transform: rotateZ(0deg) translateX(-18px);
+    }
+
+    37.36%, 80.04% {
+        transform: rotateZ(180deg) translateX(-18px);
+    }
+
+    87.36% {
+        transform: rotateZ(0deg) translateX(-18px);
+    }
+}
+
+@-webkit-keyframes page-15 {
+    31.9% {
+        transform: rotateZ(0deg) translateX(-18px);
+    }
+
+    39.1%, 81.9% {
+        transform: rotateZ(180deg) translateX(-18px);
+    }
+
+    89.1% {
+        transform: rotateZ(0deg) translateX(-18px);
+    }
+}
+
+@keyframes page-15 {
+    31.9% {
+        transform: rotateZ(0deg) translateX(-18px);
+    }
+
+    39.1%, 81.9% {
+        transform: rotateZ(180deg) translateX(-18px);
+    }
+
+    89.1% {
+        transform: rotateZ(0deg) translateX(-18px);
+    }
+}
+
+@-webkit-keyframes page-16 {
+    33.76% {
+        transform: rotateZ(0deg) translateX(-18px);
+    }
+
+    40.84%, 83.76% {
+        transform: rotateZ(180deg) translateX(-18px);
+    }
+
+    90.84% {
+        transform: rotateZ(0deg) translateX(-18px);
+    }
+}
+
+@keyframes page-16 {
+    33.76% {
+        transform: rotateZ(0deg) translateX(-18px);
+    }
+
+    40.84%, 83.76% {
+        transform: rotateZ(180deg) translateX(-18px);
+    }
+
+    90.84% {
+        transform: rotateZ(0deg) translateX(-18px);
+    }
+}
+
+@-webkit-keyframes page-17 {
+    35.62% {
+        transform: rotateZ(0deg) translateX(-18px);
+    }
+
+    42.58%, 85.62% {
+        transform: rotateZ(180deg) translateX(-18px);
+    }
+
+    92.58% {
+        transform: rotateZ(0deg) translateX(-18px);
+    }
+}
+
+@keyframes page-17 {
+    35.62% {
+        transform: rotateZ(0deg) translateX(-18px);
+    }
+
+    42.58%, 85.62% {
+        transform: rotateZ(180deg) translateX(-18px);
+    }
+
+    92.58% {
+        transform: rotateZ(0deg) translateX(-18px);
+    }
+}
+
+@-webkit-keyframes page-18 {
+    37.48% {
+        transform: rotateZ(0deg) translateX(-18px);
+    }
+
+    44.32%, 87.48% {
+        transform: rotateZ(180deg) translateX(-18px);
+    }
+
+    94.32% {
+        transform: rotateZ(0deg) translateX(-18px);
+    }
+}
+
+@keyframes page-18 {
+    37.48% {
+        transform: rotateZ(0deg) translateX(-18px);
+    }
+
+    44.32%, 87.48% {
+        transform: rotateZ(180deg) translateX(-18px);
+    }
+
+    94.32% {
+        transform: rotateZ(0deg) translateX(-18px);
+    }
+}
+
+@-webkit-keyframes left {
+    4% {
+        transform: rotateZ(90deg);
+    }
+
+    10%, 40% {
+        transform: rotateZ(0deg);
+    }
+
+    46%, 54% {
+        transform: rotateZ(90deg);
+    }
+
+    60%, 90% {
+        transform: rotateZ(0deg);
+    }
+
+    96% {
+        transform: rotateZ(90deg);
+    }
+}
+
+@keyframes left {
+    4% {
+        transform: rotateZ(90deg);
+    }
+
+    10%, 40% {
+        transform: rotateZ(0deg);
+    }
+
+    46%, 54% {
+        transform: rotateZ(90deg);
+    }
+
+    60%, 90% {
+        transform: rotateZ(0deg);
+    }
+
+    96% {
+        transform: rotateZ(90deg);
+    }
+}
+
+@-webkit-keyframes right {
+    4% {
+        transform: rotateZ(-90deg);
+    }
+
+    10%, 40% {
+        transform: rotateZ(0deg);
+    }
+
+    46%, 54% {
+        transform: rotateZ(-90deg);
+    }
+
+    60%, 90% {
+        transform: rotateZ(0deg);
+    }
+
+    96% {
+        transform: rotateZ(-90deg);
+    }
+}
+
+@keyframes right {
+    4% {
+        transform: rotateZ(-90deg);
+    }
+
+    10%, 40% {
+        transform: rotateZ(0deg);
+    }
+
+    46%, 54% {
+        transform: rotateZ(-90deg);
+    }
+
+    60%, 90% {
+        transform: rotateZ(0deg);
+    }
+
+    96% {
+        transform: rotateZ(-90deg);
+    }
+}
+
+@-webkit-keyframes book {
+    4% {
+        transform: rotateZ(-90deg);
+    }
+
+    10%, 40% {
+        transform: rotateZ(0deg);
+        transform-origin: 2px 2px;
+    }
+
+    40.01%, 59.99% {
+        transform-origin: 30px 2px;
+    }
+
+    46%, 54% {
+        transform: rotateZ(90deg);
+    }
+
+    60%, 90% {
+        transform: rotateZ(0deg);
+        transform-origin: 2px 2px;
+    }
+
+    96% {
+        transform: rotateZ(-90deg);
+    }
+}
+
+@keyframes book {
+    4% {
+        transform: rotateZ(-90deg);
+    }
+
+    10%, 40% {
+        transform: rotateZ(0deg);
+        transform-origin: 2px 2px;
+    }
+
+    40.01%, 59.99% {
+        transform-origin: 30px 2px;
+    }
+
+    46%, 54% {
+        transform: rotateZ(90deg);
+    }
+
+    60%, 90% {
+        transform: rotateZ(0deg);
+        transform-origin: 2px 2px;
+    }
+
+    96% {
+        transform: rotateZ(-90deg);
+    }
+}
+
+.bookMain .dribbble {
+    position: fixed;
+    display: block;
+    right: 24px;
+    bottom: 24px;
+}
+
+.bookMain .dribbble img {
+    display: block;
+    width: 76px;
+}
+
+.margin-top2em {
+    margin-top: 1.5em !important;
+}
+
+
+.custom-select2 {
+    position: relative;
+    font-family: Arial;
+}
+
+.custom-select2 select {
+    display: none; /*hide original SELECT element:*/
+}
+
+.select-selected {
+    background-color: DodgerBlue;
+}
+
+/*style the arrow inside the select element:*/
+.select-selected:after {
+    position: absolute;
+    content: "";
+    top: 14px;
+    right: 10px;
+    width: 0;
+    height: 0;
+    border: 6px solid transparent;
+    border-color: #fff transparent transparent transparent;
+}
+
+/*point the arrow upwards when the select box is open (active):*/
+.select-selected.select-arrow-active:after {
+    border-color: transparent transparent #fff transparent;
+    top: 7px;
+}
+
+/*style the items (options), including the selected item:*/
+.select-items div,.select-selected {
+    color: #ffffff;
+    padding: 8px 16px;
+    border: 1px solid transparent;
+    border-color: transparent transparent rgba(0, 0, 0, 0.1) transparent;
+    cursor: pointer;
+    user-select: none;
+}
+
+/*style items (options):*/
+.select-items {
+    position: absolute;
+    background-color: DodgerBlue;
+    top: 100%;
+    left: 0;
+    right: 0;
+    z-index: 99;
+}
+
+/*hide the items when the select box is closed:*/
+.select-hide {
+    display: none;
+}
+
+.select-items div:hover, .same-as-selected {
+    background-color: rgba(0, 0, 0, 0.1);
+}
+
+
+.select2-search__field{width: 100% !important;}
+.textError{
+    left: 0px;
+    margin: 1.5em 0em 0em 1.2em;
+    display: block;
+}
+
+.width_point5em{
+    width: 1.5em;
+}
+
+.thumbnailImg_WH5_2 {
+    width: 5em;
+    height: 5em;
+}
+
+.widthMin27rem {
+    min-width: 27rem !important;
+}
+
+.redDot:after{
+    content: "\F111";
+    position: absolute;
+    font-family: "Font Awesome 5 Free";
+    font-weight: 900;
+    color: red;
+    font-size: 8px;
+    margin: -3px -5px;
+}
+
+.note-editor.note-airframe .note-editing-area .note-editable, .note-editor.note-frame .note-editing-area .note-editable {
+    cursor: default;
+}

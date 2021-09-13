@@ -1,0 +1,8 @@
+
+@font-face {
+  font-family: 'AtlasGrotesk-Regular';
+  src: url('AtlasGrotesk-Regular.eot?#iefix') format('embedded-opentype'),  url('AtlasGrotesk-Regular.otf')  format('opentype'),
+	     url('AtlasGrotesk-Regular.woff') format('woff'), url('AtlasGrotesk-Regular.ttf')  format('truetype'), url('AtlasGrotesk-Regular.svg#AtlasGrotesk-Regular') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}

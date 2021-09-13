@@ -1,0 +1,8 @@
+
+@font-face {
+  font-family: 'FreightTextProBook-Regular';
+  src: url('FreightTextProBook-Regular.eot?#iefix') format('embedded-opentype'),  url('FreightTextProBook-Regular.otf')  format('opentype'),
+	     url('FreightTextProBook-Regular.woff') format('woff'), url('FreightTextProBook-Regular.ttf')  format('truetype'), url('FreightTextProBook-Regular.svg#FreightTextProBook-Regular') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
